@@ -1,0 +1,252 @@
+cfs entry for: _6b.fld
+doc 0
+  field 0
+    name titolo
+    type string
+    value Insulina
+  field 1
+    name contenuto
+    type string
+    value Sul numero di Focus in edicola trovate un approfondimento su questo ormone, prodotto dal pancreas e importantissimo per regolare i livelli di zucchero nel sangue. Il diabete di tipo 1 è una malattia cronica che mette fuori uso le cellule che producono insulina: che ne soffre deve pertanto integrare l'ormone assumendolo come farmaco. \
+Potete esplorare il modello muovendovi con il mouse, per visualizzare la proteina da tutte le angolazioni e avere informazioni in più.\
+
+END
+checksum 00000000000453481451
+cfs entry for: _6b.inf
+number of fields 2
+  name titolo
+  number 0
+  index options DOCS_AND_FREQS_AND_POSITIONS
+  term vectors false
+  payloads false
+  norms true
+  doc values NONE
+  doc values gen -1
+  attributes 0
+  data dimensional count 0
+  index dimensional count 0
+  dimensional num bytes 0
+  vector number of dimensions 0
+  vector encoding FLOAT32
+  vector similarity EUCLIDEAN
+  soft-deletes false
+  name contenuto
+  number 1
+  index options DOCS_AND_FREQS_AND_POSITIONS
+  term vectors false
+  payloads false
+  norms true
+  doc values NONE
+  doc values gen -1
+  attributes 0
+  data dimensional count 0
+  index dimensional count 0
+  dimensional num bytes 0
+  vector number of dimensions 0
+  vector encoding FLOAT32
+  vector similarity EUCLIDEAN
+  soft-deletes false
+checksum 00000000001012915120
+cfs entry for: _6b.len
+field titolo
+  type NUMERIC
+  minvalue 1
+  pattern 0
+0
+T
+field contenuto
+  type NUMERIC
+  minvalue 41
+  pattern 0
+0
+T
+END
+checksum 00000000001743472790
+cfs entry for: _6b.pst
+field contenuto
+  term 1
+    doc 0
+      freq 1
+      pos 29
+  term angolazion
+    doc 0
+      freq 1
+      pos 68
+  term approfondiment
+    doc 0
+      freq 1
+      pos 8
+  term assumendol
+    doc 0
+      freq 1
+      pos 50
+  term avere
+    doc 0
+      freq 1
+      pos 70
+  term cellul
+    doc 0
+      freq 1
+      pos 39
+  term cronic
+    doc 0
+      freq 1
+      pos 33
+  term deve
+    doc 0
+      freq 1
+      pos 46
+  term diabet
+    doc 0
+      freq 1
+      pos 26
+  term edicol
+    doc 0
+      freq 1
+      pos 5
+  term esplorar
+    doc 0
+      freq 1
+      pos 54
+  term farmac
+    doc 0
+      freq 1
+      pos 52
+  term focus
+    doc 0
+      freq 1
+      pos 3
+  term fuori
+    doc 0
+      freq 1
+      pos 36
+  term importantissim
+    doc 0
+      freq 1
+      pos 16
+  term informazion
+    doc 0
+      freq 1
+      pos 71
+  term insulin
+    doc 0
+      freq 1
+      pos 42
+  term integrar
+    doc 0
+      freq 1
+      pos 48
+  term livell
+    doc 0
+      freq 1
+      pos 20
+  term malatt
+    doc 0
+      freq 1
+      pos 32
+  term mette
+    doc 0
+      freq 1
+      pos 35
+  term modell
+    doc 0
+      freq 1
+      pos 56
+  term mouse
+    doc 0
+      freq 1
+      pos 60
+  term muovendov
+    doc 0
+      freq 1
+      pos 57
+  term numer
+    doc 0
+      freq 1
+      pos 1
+  term ormon
+    doc 0
+      freq 2
+      pos 11
+      pos 49
+  term pancreas
+    doc 0
+      freq 1
+      pos 14
+  term pertant
+    doc 0
+      freq 1
+      pos 47
+  term potet
+    doc 0
+      freq 1
+      pos 53
+  term prodott
+    doc 0
+      freq 1
+      pos 12
+  term producon
+    doc 0
+      freq 1
+      pos 41
+  term protein
+    doc 0
+      freq 1
+      pos 64
+  term regolar
+    doc 0
+      freq 1
+      pos 18
+  term sangu
+    doc 0
+      freq 1
+      pos 24
+  term soffr
+    doc 0
+      freq 1
+      pos 45
+  term tipo
+    doc 0
+      freq 1
+      pos 28
+  term trovat
+    doc 0
+      freq 1
+      pos 6
+  term tutte
+    doc 0
+      freq 1
+      pos 66
+  term uso
+    doc 0
+      freq 1
+      pos 37
+  term visualizzar
+    doc 0
+      freq 1
+      pos 62
+  term zuccher
+    doc 0
+      freq 1
+      pos 22
+field titolo
+  term insulina
+    doc 0
+      freq 1
+      pos 0
+END
+checksum 00000000001558417419
+table of contents, size: 4
+  filename: _6b.fld
+    start: 23
+    end: 657
+  filename: _6b.inf
+    start: 680
+    end: 1460
+  filename: _6b.len
+    start: 1483
+    end: 1635
+  filename: _6b.pst
+    start: 1658
+    end: 3858
+table of contents begins at offset: 0000000000000003858

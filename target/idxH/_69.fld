@@ -1,0 +1,126 @@
+doc 0
+  field 0
+    name titolo
+    type string
+    value Volto di una donna
+  field 1
+    name contenuto
+    type string
+    value Era il 1881 quando un team di archeologi ritrovò un cranio umano in una grotta di Mladeč, un villaggio dell'attuale Repubblica Ceca. All'epoca i resti vennero datati attorno al 29.000 a.C. e attribuiti a un uomo vissuto durante il Paleolitico. Quasi 150 anni dopo, un'analisi più approfondita unita a un confronto con altri teschi ritrovati nello stesso sito ha fatto emergere un errore: i resti appartenevano a una ragazza di diciassette anni vissuta durante l'Aurignaziano, un periodo del Paleolitico Superiore che vai dai 43.000 ai 26.000 anni fa.\
+\
+Cultura\
+Ricostruito il volto di una teenager di 9000 anni fa\
+\
+A partire dalle informazioni raccolte durante i primi scavi di fine Ottocento e dalle ricostruzioni del volto effettuate negli anni Trenta del Novecento dai ricercatori (imprecise e limitate a causa della scarsa tecnologia a loro disposizione), un gruppo di studiosi ha creato una copia digitale di come doveva essere il volto della ragazza, pubblicando i risultati in un libro online intitolato "The Forensic Facial Approach to the Skull Mladeč 1".\
+\
+PARTI MANCANTI. Poiché al cranio mancava la mandibola, Cicero Moraes, coordinatore dello studio, ha integrato i dati mancanti con quelli ricavati dalle TAC di altre mandibole: «Per ricostruire l'intero cranio abbiamo usato i dati ricavati dalle TAC di 200 umani moderni e dai resti di individui appartenuti a diversi gruppi di popolazioni, tra cui europei, africani e asiatici», spiega Moraes.\
+
+doc 1
+  field 0
+    name titolo
+    type string
+    value La strage di Gorla
+  field 1
+    name contenuto
+    type string
+    value La mattina del 20 ottobre 1944 non era un giorno come tutti gli altri a Milano. Passerà alla storia come il giorno della strage di Gorla. La città era sotto il tiro delle bombe anglo-americane, impegnate a neutralizzare le forze nazifasciste nel Nord Italia, ma i bambini della scuola "Francesco Crispi", nel quartiere Gorla erano in classe. La missione degli Alleati era distruggere le strutture meccanico-siderurgiche al servizio dell'industria bellica, come la Breda, i cui stabilimenti erano a Sesto San Giovanni, periferia nord della città.\
+\
+ERRORE FATALE. Quella mattina 18 bombardieri americani, ciascuno con a bordo 10 bombe da 220 kg, per un errore nel calcolo della rotta (forse per una errata interpretazione delle coordinate in codice nel piano di volo), si trovarono a sorvolare il quartiere di Gorla, anziché gli stabilimenti della Breda. Capito lo sbaglio, il comandante della missione James B. Knapp decise di far rientrare gli aerei alla base.\
+\
+Ma rimaneva il problema del carico: le bombe già innescate non potevano infatti essere riportate indietro, per non mettere a repentaglio l'incolumità degli equipaggi. Contrariamente a quanto previsto in casi simili, dunque, Knapp non fece sganciare le bombe nelle campagne o in mare durante il volo di ritorno, ma ordinò di disfarsene subito.\
+
+doc 2
+  field 0
+    name titolo
+    type string
+    value Asteroide e Sole
+  field 1
+    name contenuto
+    type string
+    value BACIATO DAL SOLE. L'eccezionalità di queste scoperte, pubblicate su The Astronomical Journal, sta nel fatto che questi asteroidi sono difficili da rilevare dato che i telescopi devono puntare proprio verso il Sole, sfidandone il bagliore. Scott Sheppard del Carnegie Institution for Science (Washington) e il suo team hanno ovviato al problema osservando il cielo nella direzione del Sole solo durante i 10 minuti del mattino e della sera in cui la stella era appena sotto l'orizzonte. \
+Grazie alla Dark Energy Camera in Cile hanno scovato così la roccia denominata 2021 PH27 che orbita più vicino al Sole rispetto a qualsiasi altro asteroide che abbiamo visto e che vi si avvicina come nessun altro oggetto che conosciamo. Spiega Sheppard: «Nel Sistema solare è, in media, il secondo oggetto più vicino al Sole, ma si avvicina alla nostra stella molto di più di Mercurio (il pianeta più vicino al Sole, ndr)». Quando è molto vicino, la superficie raggiunge temperature di circa 500 °C. Quando si trova nel suo punto più lontano, invece, è molto più lontano dal Sole di quanto non faccia Mercurio. \
+Secondo i ricercatori, nei prossimi mille anni l'asteroide 2021 PH27 si avvicinerà anche molto a Venere e potrebbe finire per colliderci entro qualche milione di anni. Ma questo non è l'unico incidente planetario previsto.\
+
+doc 3
+  field 0
+    name titolo
+    type string
+    value Gilet Intelligente
+  field 1
+    name contenuto
+    type string
+    value Un'azienda britannica chiamata Petit Pli ha ideato un gilet riscaldabile che raggiunge una temperatura di 40 °C senza bisogno di elettricità né batterie. Entropy Vest, questo il nome del prodotto, funziona grazie a una sostanza chimica in grado di scaldarsi velocemente cambiando consistenza.\
+Questo capo di abbigliamento è pensato per chi fa sport e vuole scaldarsi durante i primi minuti di allenamento, ma potrebbe anche essere utilizzato in inverno sotto alla camicia o alla felpa da persone che vanno a scuola o al lavoro.\
+COME FUNZIONA? Il funzionamento di Entropy Vest è piuttosto semplice: su tutto il gilet corrono dei tubi pieni di una sostanza in grado di conservare e liberare energia passando dallo stato liquido a quello solido.\
+Quando il materiale è liquido, il gilet è freddo; quando, premendo un pulsante, il materiale cambia consistenza e diventa un gel, si scalda poco a poco. «Abbiamo modificato il profilo chimico del liquido affinché non si solidifichi del tutto una volta attivato, cosa che lo renderebbe troppo rigido da indossare», spiega Ryan Mario Yasin, fondatore dell'azienda, alla rivista online spagnola El Confidencial.\
+
+doc 4
+  field 0
+    name titolo
+    type string
+    value Neanderthal
+  field 1
+    name contenuto
+    type string
+    value Un team di ricercatori del Max Planck Institute for Evolutionary Anthropology di Lipsia (l'istituto di ricerca tedesco fondato e diretto da Svante Pääbo, fresco vincitore del premio Nobel per la Fisiologia) ha condotto uno studio sulle affinità genetiche di un gruppo di Neanderthal, cercando le tracce di legami familiari, e ha ricostruito così i rapporti all'interno di una piccola comunità di questi ominini vissuta in Siberia. Il lavoro, che era stato anticipato in un simposio di archeologia nel 2021, è stato ora pubblicato su Nature.\
+RICOSTRUZIONE. Vale la pena ricordare che il primo sequenziamento di un DNA Neanderthal è del 2010 e da allora, la paziente ricostruzione del genoma di questi "cugini" dei sapiens (il lavoro che è valso il recente Nobel) ha permesso di sbirciare in alcuni frangenti della loro vita prima dell'estinzione. Ma al di là di quello che facevano durante il giorno, come vivevano, i Neanderthal? Qual era la composizione tipica della loro società, e com'era organizzata la loro struttura familiare?\
+
+doc 5
+  field 0
+    name titolo
+    type string
+    value Equilibri Magnetici
+  field 1
+    name contenuto
+    type string
+    value Come abbiamo spiegato nell'articolo su "record e protagonisti della fusione nucleare", una tecnologia di fusione si basa su speciali reattori chiamati tokamak, impianti di forma toroidale all'interno dei quali il plasma viene tenuto in sospensione (confinato) da potenti campi magnetici.\
+Questo materiale, che viene ottenuto dal surriscaldamento di isotopi dell'idrogeno, può raggiungere temperature dell'ordine di 100 milioni di gradi centigradi: i campi magnetici lo tengono in sospensione all'interno del tokamak senza farlo avvicinare alle pareti, che a quelle temperature verrebbero istantaneamente vaporizzate.\
+Questa del confinamento megnetico è un'operazione estremamente complessa, poiché il campo magnetico prodotto da ogni singolo elettromagnete del reattore deve variare migliaia di volte al secondo in funzione dei moti e delle condizioni del plasma.\
+
+doc 6
+  field 0
+    name titolo
+    type string
+    value Patatine fritte
+  field 1
+    name contenuto
+    type string
+    value Impossibile non amare le patatine fritte, sia quelle a bastoncino che facciamo in casa, troviamo nei ristoranti e nei fast food, che quelle in busta che sgranocchiamo ovunque. Ma a chi dobbiamo questa invenzione culinaria? La versione più ufficiale racconta che dobbiamo ringraziare George Crum, un cuoco del ristorante Lake House di Saratoga Springs, New York, che le inventò nel 1853 quando un cliente rifiutò di mangiare il suo piatto di patatine fritte in quanto troppo grosse.\
+\
+MOLTO SOTTILI. Crum decise di fargli un dispetto: tagliò le patate in modo che fossero molto sottili, quasi trasparenti, e dopo averle fritte nell'olio bollente le cosparse di sale. Ne era convinto: sarebbero state dure e immangiabili.\
+
+doc 7
+  field 0
+    name titolo
+    type string
+    value Gemello digitale
+  field 1
+    name contenuto
+    type string
+    value Entro una decina di anni ciascuno di noi avrà un gemello digitale, una perfetta copia di noi stessi creata a partire dai dati. Sarà in grado di pensare, replicherà i nostri comportamenti, le nostre preferenze e le nostre scelte d'acquisto. Lo afferma Rob Enderle, esperto americano di tecnologia e consulente per le più rinomate aziende della Silicon Valley.\
+\
+\
+PREVEDERE IL FUTURO. Fantascienza? Non proprio: le tecnologie per realizzare la nostra copia digitale esistono già. A patto di avere a disposizione una quantità di dati sufficiente, un sistema di intelligenza artificiale potrebbe già oggi effettuare previsioni molto precise su alcune nostre scelte, per esempio in campo politico, sociale o nelle decisioni d'acquisto.\
+
+doc 8
+  field 0
+    name titolo
+    type string
+    value Dito robot sensibile
+  field 1
+    name contenuto
+    type string
+    value Un team di ricercatori del Beijing Institute of Nanoenergy and Nanosystems (Cina) ha sviluppato un dito artificiale in grado di riconoscere diversi materiali con almeno il 90% di precisione: la tecnologia potrebbe essere utile a livello industriale per automatizzare il controllo qualità o lo smistamento della merce. Esistono già dei sensori in grado di ottenere informazioni su alcune qualità della superficie, come la temperatura o la pressione, ma quelli capaci di riconoscere altre caratteristiche come la tipologia o la ruvidità di un materiale sono meno comuni. I risultati della ricerca sono stati pubblicati su Science Advances.\
+
+doc 9
+  field 0
+    name titolo
+    type string
+    value Simulatore Tatto
+  field 1
+    name contenuto
+    type string
+    value Immaginate di poter stringere la mano a un vostro amico nel Metaverso, o accarezzare un gatto che vi fa le fusa mentre girovagate per le strade di una città virtuale: presto tutto questo potrebbe non essere più solo un'utopia da film fantascientifico, ma una realtà del nostro mondo. Un team di ricercatori cinesi dell'azienda Tencent ha infatti sviluppato un dispositivo indossabile in grado di simulare il tatto in alta definizione, grazie a degli elettrodi che stimolano i nervi e inviano dei segnali che vengono interpretati dal cervello. I risultati della ricerca sono stati pubblicati su Science.\
+
+END
+checksum 00000000000060311272

@@ -1,0 +1,475 @@
+cfs entry for: _6d.fld
+doc 0
+  field 0
+    name titolo
+    type string
+    value Sale Maya
+  field 1
+    name contenuto
+    type string
+    value Il sale oggi si trova facilmente in qualsiasi supermercato e stiamo attenti a non usarne troppo per non danneggiare la salute. In passato, invece, era considerata una merce ambita e preziosa. Il cloruro di sodio, elemento indispensabile nella dieta fin dall'antichità, era raro, tanto da essere considerato quasi magico. Nella civiltà maya per esempio, fu così importante da diventare una preziosa offerta  per gli dèi e una moneta di scambio.\
+\
+CONSERVANTE NATURALE. Ma perché il sale era considerato così essenziale in questa civiltà? Non solo perché dava sapore ai cibi. La sua virtù più grande, infatti, era la capacità di conservare gli alimenti in un clima tropicale, in un'epoca in cui il frigorifero non esisteva.\
+\
+Grazie a uno studio pubblicato dall'Università di Cambridge possiamo fare chiarezza sul ruolo, sulla produzione e sulla distribuzione "dell'oro bianco" nella società maya, in particolare in un sito archeologico subacqueo, recentemente esplorato in Belize, in cui si è stata scoperta l'esistenza di un villaggio con abitazioni dotate di "cucine" per realizzare il sale, officine per lavorare prodotti salati ed essiccati e magazzini per lo stoccaggio della merce.\
+
+END
+checksum 00000000002857128057
+cfs entry for: _6d.inf
+number of fields 2
+  name titolo
+  number 0
+  index options DOCS_AND_FREQS_AND_POSITIONS
+  term vectors false
+  payloads false
+  norms true
+  doc values NONE
+  doc values gen -1
+  attributes 0
+  data dimensional count 0
+  index dimensional count 0
+  dimensional num bytes 0
+  vector number of dimensions 0
+  vector encoding FLOAT32
+  vector similarity EUCLIDEAN
+  soft-deletes false
+  name contenuto
+  number 1
+  index options DOCS_AND_FREQS_AND_POSITIONS
+  term vectors false
+  payloads false
+  norms true
+  doc values NONE
+  doc values gen -1
+  attributes 0
+  data dimensional count 0
+  index dimensional count 0
+  dimensional num bytes 0
+  vector number of dimensions 0
+  vector encoding FLOAT32
+  vector similarity EUCLIDEAN
+  soft-deletes false
+checksum 00000000001012915120
+cfs entry for: _6d.len
+field titolo
+  type NUMERIC
+  minvalue 2
+  pattern 0
+0
+T
+field contenuto
+  type NUMERIC
+  minvalue 57
+  pattern 0
+0
+T
+END
+checksum 00000000002229896640
+cfs entry for: _6d.pst
+field contenuto
+  term abitazion
+    doc 0
+      freq 1
+      pos 160
+  term aliment
+    doc 0
+      freq 1
+      pos 102
+  term ambit
+    doc 0
+      freq 1
+      pos 28
+  term antichit
+    doc 0
+      freq 1
+      pos 40
+  term archeologic
+    doc 0
+      freq 1
+      pos 143
+  term attent
+    doc 0
+      freq 1
+      pos 11
+  term beliz
+    doc 0
+      freq 1
+      pos 148
+  term bianc
+    doc 0
+      freq 1
+      pos 134
+  term cambridg
+    doc 0
+      freq 1
+      pos 122
+  term capacit
+    doc 0
+      freq 1
+      pos 98
+  term chiarezz
+    doc 0
+      freq 1
+      pos 125
+  term cibi
+    doc 0
+      freq 1
+      pos 89
+  term civilt
+    doc 0
+      freq 2
+      pos 50
+      pos 82
+  term clima
+    doc 0
+      freq 1
+      pos 105
+  term clorur
+    doc 0
+      freq 1
+      pos 32
+  term conservant
+    doc 0
+      freq 1
+      pos 70
+  term conservar
+    doc 0
+      freq 1
+      pos 100
+  term considerat
+    doc 0
+      freq 3
+      pos 25
+      pos 46
+      pos 77
+  term così
+    doc 0
+      freq 2
+      pos 55
+      pos 78
+  term cucin
+    doc 0
+      freq 1
+      pos 163
+  term danneggiar
+    doc 0
+      freq 1
+      pos 18
+  term dava
+    doc 0
+      freq 1
+      pos 86
+  term dieta
+    doc 0
+      freq 1
+      pos 38
+  term distribuzion
+    doc 0
+      freq 1
+      pos 132
+  term diventar
+    doc 0
+      freq 1
+      pos 58
+  term dotat
+    doc 0
+      freq 1
+      pos 161
+  term dèi
+    doc 0
+      freq 1
+      pos 64
+  term element
+    doc 0
+      freq 1
+      pos 35
+  term epoca
+    doc 0
+      freq 1
+      pos 108
+  term esemp
+    doc 0
+      freq 1
+      pos 53
+  term esistenz
+    doc 0
+      freq 1
+      pos 155
+  term esistev
+    doc 0
+      freq 1
+      pos 114
+  term esplorat
+    doc 0
+      freq 1
+      pos 146
+  term essenzial
+    doc 0
+      freq 1
+      pos 79
+  term esser
+    doc 0
+      freq 1
+      pos 45
+  term essiccat
+    doc 0
+      freq 1
+      pos 174
+  term facilment
+    doc 0
+      freq 1
+      pos 5
+  term fare
+    doc 0
+      freq 1
+      pos 124
+  term fin
+    doc 0
+      freq 1
+      pos 39
+  term frigorifer
+    doc 0
+      freq 1
+      pos 112
+  term grand
+    doc 0
+      freq 1
+      pos 94
+  term graz
+    doc 0
+      freq 1
+      pos 115
+  term important
+    doc 0
+      freq 1
+      pos 56
+  term indispensabil
+    doc 0
+      freq 1
+      pos 36
+  term infatt
+    doc 0
+      freq 1
+      pos 95
+  term invec
+    doc 0
+      freq 1
+      pos 23
+  term lavorar
+    doc 0
+      freq 1
+      pos 170
+  term magazzin
+    doc 0
+      freq 1
+      pos 176
+  term magic
+    doc 0
+      freq 1
+      pos 48
+  term maya
+    doc 0
+      freq 2
+      pos 51
+      pos 137
+  term merce
+    doc 0
+      freq 2
+      pos 27
+      pos 181
+  term monet
+    doc 0
+      freq 1
+      pos 67
+  term natural
+    doc 0
+      freq 1
+      pos 71
+  term offert
+    doc 0
+      freq 1
+      pos 61
+  term officin
+    doc 0
+      freq 1
+      pos 168
+  term oggi
+    doc 0
+      freq 1
+      pos 2
+  term oro
+    doc 0
+      freq 1
+      pos 133
+  term particolar
+    doc 0
+      freq 1
+      pos 139
+  term passat
+    doc 0
+      freq 1
+      pos 22
+  term possiam
+    doc 0
+      freq 1
+      pos 123
+  term prezios
+    doc 0
+      freq 2
+      pos 30
+      pos 60
+  term prodott
+    doc 0
+      freq 1
+      pos 171
+  term produzion
+    doc 0
+      freq 1
+      pos 129
+  term pubblicat
+    doc 0
+      freq 1
+      pos 119
+  term qualsias
+    doc 0
+      freq 1
+      pos 7
+  term quasi
+    doc 0
+      freq 1
+      pos 47
+  term raro
+    doc 0
+      freq 1
+      pos 42
+  term realizzar
+    doc 0
+      freq 1
+      pos 165
+  term recentement
+    doc 0
+      freq 1
+      pos 145
+  term ruolo
+    doc 0
+      freq 1
+      pos 127
+  term salat
+    doc 0
+      freq 1
+      pos 172
+  term sale
+    doc 0
+      freq 3
+      pos 1
+      pos 75
+      pos 167
+  term salut
+    doc 0
+      freq 1
+      pos 20
+  term sapor
+    doc 0
+      freq 1
+      pos 87
+  term scamb
+    doc 0
+      freq 1
+      pos 69
+  term scopert
+    doc 0
+      freq 1
+      pos 154
+  term sito
+    doc 0
+      freq 1
+      pos 142
+  term societ
+    doc 0
+      freq 1
+      pos 136
+  term sodio
+    doc 0
+      freq 1
+      pos 34
+  term solo
+    doc 0
+      freq 1
+      pos 84
+  term stata
+    doc 0
+      freq 1
+      pos 153
+  term stoccagg
+    doc 0
+      freq 1
+      pos 179
+  term stud
+    doc 0
+      freq 1
+      pos 118
+  term subacque
+    doc 0
+      freq 1
+      pos 144
+  term supermercat
+    doc 0
+      freq 1
+      pos 8
+  term tanto
+    doc 0
+      freq 1
+      pos 43
+  term tropical
+    doc 0
+      freq 1
+      pos 106
+  term tropp
+    doc 0
+      freq 1
+      pos 15
+  term trova
+    doc 0
+      freq 1
+      pos 4
+  term universit
+    doc 0
+      freq 1
+      pos 120
+  term usarn
+    doc 0
+      freq 1
+      pos 14
+  term villagg
+    doc 0
+      freq 1
+      pos 158
+  term virtù
+    doc 0
+      freq 1
+      pos 92
+field titolo
+  term maya
+    doc 0
+      freq 1
+      pos 1
+  term sale
+    doc 0
+      freq 1
+      pos 0
+END
+checksum 00000000003959734827
+table of contents, size: 4
+  filename: _6d.fld
+    start: 23
+    end: 1390
+  filename: _6d.inf
+    start: 1413
+    end: 2193
+  filename: _6d.len
+    start: 2216
+    end: 2368
+  filename: _6d.pst
+    start: 2391
+    end: 7408
+table of contents begins at offset: 0000000000000007408

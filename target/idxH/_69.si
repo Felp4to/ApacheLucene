@@ -1,0 +1,35 @@
+    version 9.4.0
+    min version 9.4.0
+    number of documents 10
+    uses compound file false
+    diagnostics 10
+      key java.vendor
+      value Amazon.com Inc.
+      key os.version
+      value 10.0
+      key timestamp
+      value 1666463328471
+      key mergeMaxNumSegments
+      value -1
+      key lucene.version
+      value 9.4.0
+      key source
+      value merge
+      key os.arch
+      value amd64
+      key java.runtime.version
+      value 17.0.4+8-LTS
+      key mergeFactor
+      value 10
+      key os
+      value Windows 10
+    attributes 0
+    files 5
+      file _69.len
+      file _69.pst
+      file _69.inf
+      file _69.fld
+      file _69.si
+    id —ÐÚòIC!3ÙL3;ÁŸ”
+    sort 0
+checksum 00000000003273490073

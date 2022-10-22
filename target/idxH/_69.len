@@ -1,0 +1,50 @@
+field titolo
+  type NUMERIC
+  minvalue 1
+  pattern 0
+3
+T
+3
+T
+2
+T
+1
+T
+0
+T
+1
+T
+1
+T
+1
+T
+2
+T
+1
+T
+field contenuto
+  type NUMERIC
+  minvalue 46
+  pattern 00
+17
+T
+14
+T
+14
+T
+12
+T
+10
+T
+07
+T
+04
+T
+03
+T
+02
+T
+00
+T
+END
+checksum 00000000001257054421

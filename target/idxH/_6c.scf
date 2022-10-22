@@ -1,0 +1,402 @@
+cfs entry for: _6c.fld
+doc 0
+  field 0
+    name titolo
+    type string
+    value Digital Life
+  field 1
+    name contenuto
+    type string
+    value Un intenso primo piano di Lady Diana con le rughe, un altro di Michael Jackson con la pelle scura, e poi John Lennon con la barba bianca... Ve li immaginate invecchiati così? Benvenuti nel progetto As if nothing happened ("Come se non fosse accaduto nulla") di Alper Yesiltas, l'artista di Istanbul che, con appositi software, ha "fotografato" i volti dei suoi - e nostri - miti del 20esimo secolo come se il loro destino fosse stato diverso e come se noi avessimo potuto vederli invecchiare.\
+\
+«Ho capito che grazie all'intelligenza artificiale ciò che si può immaginare può diventare realtà», dice Alper Yesiltas, esperto di fotoritocco di intelligenza artificiale. «Ho pensato che mi sarebbe piaciuto immaginare come sarebbero diventate alcune star che ho amato se avessero vissuto una vita più lunga. Così è nato questo progetto. La parte più difficile è stata rendere realistici i volti invecchiati: spero di esserci riuscito».\
+
+END
+checksum 00000000000961862159
+cfs entry for: _6c.inf
+number of fields 2
+  name titolo
+  number 0
+  index options DOCS_AND_FREQS_AND_POSITIONS
+  term vectors false
+  payloads false
+  norms true
+  doc values NONE
+  doc values gen -1
+  attributes 0
+  data dimensional count 0
+  index dimensional count 0
+  dimensional num bytes 0
+  vector number of dimensions 0
+  vector encoding FLOAT32
+  vector similarity EUCLIDEAN
+  soft-deletes false
+  name contenuto
+  number 1
+  index options DOCS_AND_FREQS_AND_POSITIONS
+  term vectors false
+  payloads false
+  norms true
+  doc values NONE
+  doc values gen -1
+  attributes 0
+  data dimensional count 0
+  index dimensional count 0
+  dimensional num bytes 0
+  vector number of dimensions 0
+  vector encoding FLOAT32
+  vector similarity EUCLIDEAN
+  soft-deletes false
+checksum 00000000001012915120
+cfs entry for: _6c.len
+field titolo
+  type NUMERIC
+  minvalue 2
+  pattern 0
+0
+T
+field contenuto
+  type NUMERIC
+  minvalue 55
+  pattern 0
+0
+T
+END
+checksum 00000000002864270400
+cfs entry for: _6c.pst
+field contenuto
+  term 20esim
+    doc 0
+      freq 1
+      pos 65
+  term accadut
+    doc 0
+      freq 1
+      pos 43
+  term alcun
+    doc 0
+      freq 1
+      pos 116
+  term alper
+    doc 0
+      freq 2
+      pos 46
+      pos 98
+  term altro
+    doc 0
+      freq 1
+      pos 11
+  term amato
+    doc 0
+      freq 1
+      pos 120
+  term apposit
+    doc 0
+      freq 1
+      pos 53
+  term artificial
+    doc 0
+      freq 2
+      pos 88
+      pos 105
+  term artist
+    doc 0
+      freq 1
+      pos 48
+  term as
+    doc 0
+      freq 1
+      pos 35
+  term barba
+    doc 0
+      freq 1
+      pos 25
+  term benvenut
+    doc 0
+      freq 1
+      pos 32
+  term bianc
+    doc 0
+      freq 1
+      pos 26
+  term capit
+    doc 0
+      freq 1
+      pos 84
+  term ciò
+    doc 0
+      freq 1
+      pos 89
+  term così
+    doc 0
+      freq 2
+      pos 31
+      pos 128
+  term destin
+    doc 0
+      freq 1
+      pos 71
+  term diana
+    doc 0
+      freq 1
+      pos 6
+  term dice
+    doc 0
+      freq 1
+      pos 97
+  term difficil
+    doc 0
+      freq 1
+      pos 136
+  term diventar
+    doc 0
+      freq 1
+      pos 95
+  term diventat
+    doc 0
+      freq 1
+      pos 115
+  term divers
+    doc 0
+      freq 1
+      pos 74
+  term espert
+    doc 0
+      freq 1
+      pos 100
+  term esserc
+    doc 0
+      freq 1
+      pos 146
+  term fotografat
+    doc 0
+      freq 1
+      pos 56
+  term fotoritocc
+    doc 0
+      freq 1
+      pos 102
+  term graz
+    doc 0
+      freq 1
+      pos 86
+  term happened
+    doc 0
+      freq 1
+      pos 38
+  term if
+    doc 0
+      freq 1
+      pos 36
+  term immaginar
+    doc 0
+      freq 2
+      pos 93
+      pos 112
+  term immaginat
+    doc 0
+      freq 1
+      pos 29
+  term intelligenz
+    doc 0
+      freq 2
+      pos 87
+      pos 104
+  term intens
+    doc 0
+      freq 1
+      pos 1
+  term invecchiar
+    doc 0
+      freq 1
+      pos 82
+  term invecchiat
+    doc 0
+      freq 2
+      pos 30
+      pos 143
+  term istanbul
+    doc 0
+      freq 1
+      pos 50
+  term jackson
+    doc 0
+      freq 1
+      pos 14
+  term john
+    doc 0
+      freq 1
+      pos 21
+  term lady
+    doc 0
+      freq 1
+      pos 5
+  term lennon
+    doc 0
+      freq 1
+      pos 22
+  term lunga
+    doc 0
+      freq 1
+      pos 127
+  term michael
+    doc 0
+      freq 1
+      pos 13
+  term miti
+    doc 0
+      freq 1
+      pos 63
+  term nato
+    doc 0
+      freq 1
+      pos 130
+  term nothing
+    doc 0
+      freq 1
+      pos 37
+  term nulla
+    doc 0
+      freq 1
+      pos 44
+  term parte
+    doc 0
+      freq 1
+      pos 134
+  term pelle
+    doc 0
+      freq 1
+      pos 17
+  term pensat
+    doc 0
+      freq 1
+      pos 107
+  term piaciut
+    doc 0
+      freq 1
+      pos 111
+  term piano
+    doc 0
+      freq 1
+      pos 3
+  term poi
+    doc 0
+      freq 1
+      pos 20
+  term potut
+    doc 0
+      freq 1
+      pos 80
+  term primo
+    doc 0
+      freq 1
+      pos 2
+  term progett
+    doc 0
+      freq 2
+      pos 34
+      pos 132
+  term può
+    doc 0
+      freq 2
+      pos 92
+      pos 94
+  term realistic
+    doc 0
+      freq 1
+      pos 140
+  term realt
+    doc 0
+      freq 1
+      pos 96
+  term render
+    doc 0
+      freq 1
+      pos 139
+  term riuscit
+    doc 0
+      freq 1
+      pos 147
+  term rughe
+    doc 0
+      freq 1
+      pos 9
+  term scura
+    doc 0
+      freq 1
+      pos 18
+  term secol
+    doc 0
+      freq 1
+      pos 66
+  term softwar
+    doc 0
+      freq 1
+      pos 54
+  term spero
+    doc 0
+      freq 1
+      pos 144
+  term star
+    doc 0
+      freq 1
+      pos 117
+  term stata
+    doc 0
+      freq 1
+      pos 138
+  term stato
+    doc 0
+      freq 1
+      pos 73
+  term ve
+    doc 0
+      freq 1
+      pos 27
+  term vederl
+    doc 0
+      freq 1
+      pos 81
+  term vissut
+    doc 0
+      freq 1
+      pos 123
+  term vita
+    doc 0
+      freq 1
+      pos 125
+  term volti
+    doc 0
+      freq 2
+      pos 58
+      pos 142
+  term yesiltas
+    doc 0
+      freq 2
+      pos 47
+      pos 99
+field titolo
+  term digital
+    doc 0
+      freq 1
+      pos 0
+  term life
+    doc 0
+      freq 1
+      pos 1
+END
+checksum 00000000001780945217
+table of contents, size: 4
+  filename: _6c.fld
+    start: 23
+    end: 1136
+  filename: _6c.inf
+    start: 1159
+    end: 1939
+  filename: _6c.len
+    start: 1962
+    end: 2114
+  filename: _6c.pst
+    start: 2137
+    end: 6196
+table of contents begins at offset: 0000000000000006196

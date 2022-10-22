@@ -1,0 +1,530 @@
+cfs entry for: _6a.fld
+doc 0
+  field 0
+    name titolo
+    type string
+    value Demenza senile
+  field 1
+    name contenuto
+    type string
+    value Uno dei nodi fondamentali dell'intricata ricerca di cure per le demenze è la difficoltà di formulare diagnosi precoci: nella maggior parte dei casi, all'Alzheimer e ad altre malattie neurodegenerative, come il Parkinson, si riesce a "dare un nome" soltanto quando i sintomi sono ormai conclamati e il danno neurologico è già avanzato.\
+Uno studio dell'Università di Cambridge condotto sui grandi numeri di un database sanitario mostra che è possibile, con un po' di attenzione, individuare i primi segnali di future demenze già 9 anni prima della diagnosi ufficiale. La ricerca è stata pubblicata sulla rivista scientifica Alzheimer's & Dementia: The Journal of the Alzheimer's Association.\
+Scienza\
+Alzheimer: e se fosse una malattia autoimmune?\
+INTERVENTI TARDIVI. Attualmente esistono pochi trattamenti efficaci contro le demenze e altre malattie neurodegenerative come il Parkinson. Da un lato si interviene troppo tardi, quando i farmaci possono fare ben poco contro una degenerazione neurale iniziata anni - talvolta decenni - prima. Dall'altra, sapendo così tardi della malattia è molto difficile coinvolgere i pazienti in trial farmacologici che possano ancora alterare il corso degli eventi. Anche per queste ragioni le sperimentazioni di medicinali contro l'Alzheimer, la più comune tra le demenze, sono da tempo a un binario morto.\
+
+END
+checksum 00000000003799861231
+cfs entry for: _6a.inf
+number of fields 2
+  name titolo
+  number 0
+  index options DOCS_AND_FREQS_AND_POSITIONS
+  term vectors false
+  payloads false
+  norms true
+  doc values NONE
+  doc values gen -1
+  attributes 0
+  data dimensional count 0
+  index dimensional count 0
+  dimensional num bytes 0
+  vector number of dimensions 0
+  vector encoding FLOAT32
+  vector similarity EUCLIDEAN
+  soft-deletes false
+  name contenuto
+  number 1
+  index options DOCS_AND_FREQS_AND_POSITIONS
+  term vectors false
+  payloads false
+  norms true
+  doc values NONE
+  doc values gen -1
+  attributes 0
+  data dimensional count 0
+  index dimensional count 0
+  dimensional num bytes 0
+  vector number of dimensions 0
+  vector encoding FLOAT32
+  vector similarity EUCLIDEAN
+  soft-deletes false
+checksum 00000000001012915120
+cfs entry for: _6a.len
+field titolo
+  type NUMERIC
+  minvalue 2
+  pattern 0
+0
+T
+field contenuto
+  type NUMERIC
+  minvalue 60
+  pattern 0
+0
+T
+END
+checksum 00000000002547352253
+cfs entry for: _6a.pst
+field contenuto
+  term 9
+    doc 0
+      freq 1
+      pos 82
+  term alterar
+    doc 0
+      freq 1
+      pos 170
+  term altra
+    doc 0
+      freq 1
+      pos 152
+  term altre
+    doc 0
+      freq 2
+      pos 26
+      pos 123
+  term alzheimer
+    doc 0
+      freq 3
+      pos 23
+      pos 105
+      pos 184
+  term alzheimer's
+    doc 0
+      freq 2
+      pos 96
+      pos 102
+  term ancor
+    doc 0
+      freq 1
+      pos 169
+  term anni
+    doc 0
+      freq 2
+      pos 83
+      pos 148
+  term association
+    doc 0
+      freq 1
+      pos 103
+  term attenzion
+    doc 0
+      freq 1
+      pos 73
+  term attualment
+    doc 0
+      freq 1
+      pos 114
+  term autoimmun
+    doc 0
+      freq 1
+      pos 111
+  term avanzat
+    doc 0
+      freq 1
+      pos 51
+  term ben
+    doc 0
+      freq 1
+      pos 141
+  term binar
+    doc 0
+      freq 1
+      pos 196
+  term cambridg
+    doc 0
+      freq 1
+      pos 56
+  term casi
+    doc 0
+      freq 1
+      pos 22
+  term coinvolger
+    doc 0
+      freq 1
+      pos 161
+  term comun
+    doc 0
+      freq 1
+      pos 187
+  term conclamat
+    doc 0
+      freq 1
+      pos 44
+  term condott
+    doc 0
+      freq 1
+      pos 57
+  term corso
+    doc 0
+      freq 1
+      pos 172
+  term così
+    doc 0
+      freq 1
+      pos 154
+  term cure
+    doc 0
+      freq 1
+      pos 7
+  term danno
+    doc 0
+      freq 1
+      pos 47
+  term dare
+    doc 0
+      freq 1
+      pos 35
+  term databas
+    doc 0
+      freq 1
+      pos 63
+  term decenn
+    doc 0
+      freq 1
+      pos 150
+  term degenerazion
+    doc 0
+      freq 1
+      pos 145
+  term dement
+    doc 0
+      freq 1
+      pos 97
+  term demenz
+    doc 0
+      freq 4
+      pos 10
+      pos 80
+      pos 121
+      pos 190
+  term diagnos
+    doc 0
+      freq 2
+      pos 16
+      pos 86
+  term difficil
+    doc 0
+      freq 1
+      pos 160
+  term difficolt
+    doc 0
+      freq 1
+      pos 13
+  term efficac
+    doc 0
+      freq 1
+      pos 118
+  term esiston
+    doc 0
+      freq 1
+      pos 115
+  term event
+    doc 0
+      freq 1
+      pos 174
+  term fare
+    doc 0
+      freq 1
+      pos 140
+  term farmac
+    doc 0
+      freq 1
+      pos 138
+  term farmacologic
+    doc 0
+      freq 1
+      pos 166
+  term fondamental
+    doc 0
+      freq 1
+      pos 3
+  term formular
+    doc 0
+      freq 1
+      pos 15
+  term futur
+    doc 0
+      freq 1
+      pos 79
+  term già
+    doc 0
+      freq 2
+      pos 50
+      pos 81
+  term grand
+    doc 0
+      freq 1
+      pos 59
+  term individuar
+    doc 0
+      freq 1
+      pos 74
+  term iniziat
+    doc 0
+      freq 1
+      pos 147
+  term intervent
+    doc 0
+      freq 1
+      pos 112
+  term intervien
+    doc 0
+      freq 1
+      pos 133
+  term intricat
+    doc 0
+      freq 1
+      pos 4
+  term journal
+    doc 0
+      freq 1
+      pos 99
+  term lato
+    doc 0
+      freq 1
+      pos 131
+  term maggior
+    doc 0
+      freq 1
+      pos 19
+  term malatt
+    doc 0
+      freq 4
+      pos 27
+      pos 110
+      pos 124
+      pos 157
+  term medicinal
+    doc 0
+      freq 1
+      pos 182
+  term molto
+    doc 0
+      freq 1
+      pos 159
+  term morto
+    doc 0
+      freq 1
+      pos 197
+  term mostr
+    doc 0
+      freq 1
+      pos 65
+  term neural
+    doc 0
+      freq 1
+      pos 146
+  term neurodegenerativ
+    doc 0
+      freq 2
+      pos 28
+      pos 125
+  term neurologic
+    doc 0
+      freq 1
+      pos 48
+  term nodi
+    doc 0
+      freq 1
+      pos 2
+  term nome
+    doc 0
+      freq 1
+      pos 37
+  term numer
+    doc 0
+      freq 1
+      pos 60
+  term of
+    doc 0
+      freq 1
+      pos 100
+  term ormai
+    doc 0
+      freq 1
+      pos 43
+  term parkinson
+    doc 0
+      freq 2
+      pos 31
+      pos 128
+  term parte
+    doc 0
+      freq 1
+      pos 20
+  term pazient
+    doc 0
+      freq 1
+      pos 163
+  term po
+    doc 0
+      freq 1
+      pos 71
+  term pochi
+    doc 0
+      freq 1
+      pos 116
+  term poco
+    doc 0
+      freq 1
+      pos 142
+  term possan
+    doc 0
+      freq 1
+      pos 168
+  term possibil
+    doc 0
+      freq 1
+      pos 68
+  term posson
+    doc 0
+      freq 1
+      pos 139
+  term precoc
+    doc 0
+      freq 1
+      pos 17
+  term prima
+    doc 0
+      freq 2
+      pos 84
+      pos 151
+  term primi
+    doc 0
+      freq 1
+      pos 76
+  term pubblicat
+    doc 0
+      freq 1
+      pos 92
+  term quand
+    doc 0
+      freq 2
+      pos 39
+      pos 136
+  term ragion
+    doc 0
+      freq 1
+      pos 178
+  term ricerc
+    doc 0
+      freq 2
+      pos 5
+      pos 89
+  term riesc
+    doc 0
+      freq 1
+      pos 33
+  term rivist
+    doc 0
+      freq 1
+      pos 94
+  term sanitar
+    doc 0
+      freq 1
+      pos 64
+  term sapend
+    doc 0
+      freq 1
+      pos 153
+  term scientific
+    doc 0
+      freq 1
+      pos 95
+  term scienz
+    doc 0
+      freq 1
+      pos 104
+  term segnal
+    doc 0
+      freq 1
+      pos 77
+  term sintom
+    doc 0
+      freq 1
+      pos 41
+  term soltant
+    doc 0
+      freq 1
+      pos 38
+  term sperimentazion
+    doc 0
+      freq 1
+      pos 180
+  term stata
+    doc 0
+      freq 1
+      pos 91
+  term stud
+    doc 0
+      freq 1
+      pos 53
+  term talvolt
+    doc 0
+      freq 1
+      pos 149
+  term tardi
+    doc 0
+      freq 2
+      pos 135
+      pos 155
+  term tardiv
+    doc 0
+      freq 1
+      pos 113
+  term tempo
+    doc 0
+      freq 1
+      pos 193
+  term the
+    doc 0
+      freq 2
+      pos 98
+      pos 101
+  term trattament
+    doc 0
+      freq 1
+      pos 117
+  term trial
+    doc 0
+      freq 1
+      pos 165
+  term tropp
+    doc 0
+      freq 1
+      pos 134
+  term ufficial
+    doc 0
+      freq 1
+      pos 87
+  term universit
+    doc 0
+      freq 1
+      pos 54
+field titolo
+  term demenza
+    doc 0
+      freq 1
+      pos 0
+  term senile
+    doc 0
+      freq 1
+      pos 1
+END
+checksum 00000000001988160582
+table of contents, size: 4
+  filename: _6a.fld
+    start: 23
+    end: 1548
+  filename: _6a.inf
+    start: 1571
+    end: 2351
+  filename: _6a.len
+    start: 2374
+    end: 2526
+  filename: _6a.pst
+    start: 2549
+    end: 8288
+table of contents begins at offset: 0000000000000008288
